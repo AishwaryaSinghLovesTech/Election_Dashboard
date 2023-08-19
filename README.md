@@ -8,7 +8,6 @@ This is a MERN Stack based project to analyze the election dataset in form of a 
      - cd sever
      - npm install
 - After npm install has been successfull you can run the server through
-     - cd server
      - Node app.js 
 - You can test the end points in app.js file through postman
 - After the installation has been successful run the frontend dev server through
